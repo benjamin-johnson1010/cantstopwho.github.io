@@ -11,34 +11,40 @@ body {
 .page-title {
   text-align: center;
   font-size: 28px;
+  padding: 0px;
   }
 h2{
    font-size: 16px;
     color: cyan;
+    padding: 0px
 }
 .header{
   text-align: left;
   font-size: 16px;
   padding-left: 0.9in;
   line-height: 120%;
+  padding: 0px
 }
 .body{
   text-align: left;
   font-size: 16px;
   padding-left: 1.4in;
   line-height: 100%;
+  padding: 0px
 }
 .job-description{
   text-align: left;
   font-size: 16px;
   padding-left: 1.4in;
   line-height: 100%;
+  padding: 0px
 }
 .job-description-body{
    text-align: left;
   font-size: 16px;
   padding-left: 1.9in;
   line-height: 100%;
+  padding: 0px
 }
 .hr1{
   width: 80%;
