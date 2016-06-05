@@ -1,12 +1,13 @@
 body {
   font-family: Times, serif;
   height: 100%;
-  text-align:center;
+  text-align: center;
   width: 90%;
   border: 2px solid black;
   }
 }
-h1 {
+.page-title {
+  text-align: center;
   font-size: 32px;
   }
 h2{
