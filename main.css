@@ -15,7 +15,7 @@ h2{
 p{
   font-size: 16px;
 }
-.pmarleft{
+.pmarright{
   text-align: left;
-  margin-left= 300px
+  margin-right= 100px
 }
