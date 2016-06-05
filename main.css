@@ -1,7 +1,7 @@
 body {
   font-family: Times, serif;
   height: 100%;
-  margin-left: 80px;
+  margin-left: 120px;
   text-align: left;
   width: 100%;
 }
@@ -10,8 +10,7 @@ h1 {
    text-align: center;
   }
 h2{
-  font-size: 24px;
-  color: cyan;
+    color: cyan;
 }
 p{
   font-size: 16px;
