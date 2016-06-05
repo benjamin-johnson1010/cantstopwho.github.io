@@ -14,10 +14,17 @@ h2{
    font-size: 16px;
     color: cyan;
 }
-p{
+p.header{
   text-align: left;
   font-size: 16px;
   padding-left: 0.9in;
   line-height: 170%;
 }
+p.body{
+  text-align: left;
+  font-size: 16px;
+  padding-left: 1.4in;
+  line-height: 170%;
+}
+
 
