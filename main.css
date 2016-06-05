@@ -8,13 +8,15 @@ body {
 }
 .page-title {
   text-align: center;
-  font-size: 32px;
+  font-size: 28px;
   }
 h2{
    font-size: 16px;
     color: cyan;
 }
 p{
+  text-align: left;
   font-size: 16px;
+  padding: 30px;
 }
 
