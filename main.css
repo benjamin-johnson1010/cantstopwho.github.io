@@ -3,20 +3,19 @@ body {
   height: 150%;
   text-align: left;
   width: 90%;
-  border: 2px solid black;
   margin: 1in;
   margin-right: 1in;
   padding-left: 1in;
   }
 h1{
  font-size:28px;
-  color: cyan;
+  color: red;
   padding-bottom: 0px;
   text-align: center;
     }
 h2{
    font-size: 16px;
-    color: cyan;
+    color: red;
     padding-bottom: 0px;
     text-align: center;
 }
