@@ -49,4 +49,9 @@ h2{
 .container {
   display: flex;
 }
-
+.a{
+  text-align: left;
+  font-size: 16px;
+  padding-left: 0.9in;
+  line-height: 120%;
+}
