@@ -46,4 +46,7 @@ h2{
   margin: .5em;
   margin-left: 1in;
   }
+.container {
+  display: flex;
+}
 
