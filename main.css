@@ -20,40 +20,29 @@ h2{
     text-align: center;
 }
 .header{
-  text-align: left;
   font-size: 16px;
-  padding-left: 0.9in;
   line-height: 120%;
 }
 .body{
-  text-align: left;
   font-size: 16px;
-  padding-left: 1.4in;
+  padding-left: .5in;
   line-height: 100%;
 }
 .job-description{
-  text-align: left;
   font-size: 16px;
-  padding-left: 1.4in;
+  padding-left: .5in;
   line-height: 100%;
   }
 .job-description-body{
-   text-align: left;
   font-size: 16px;
-  padding-left: 1.9in;
+  padding-left: 1in;
   line-height: 100%;
   }
 .hr1{
   width: 80%;
   margin: .5em;
-  margin-left: 1in;
   }
 .container {
   display: flex;
 }
-.href{
-  text-align: left;
-  font-size: 16px;
-  padding-left: 0.9in;
-  line-height: 120%;
-}
+
