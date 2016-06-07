@@ -46,8 +46,12 @@ h2{
 .container {
   display: flex;
 }
-img{
+.bg{
   float: right;
   margin-right: 150px;
   border: 1px;
     }
+.benphoto{
+  float: right;
+  border: 1px;
+}
