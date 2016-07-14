@@ -1,5 +1,5 @@
 body {
-  font-family: Times, serif;
+  font-family: "Times New Roman", serif;
   height: 150%;
   text-align: left;
   width: 90%;
@@ -8,13 +8,11 @@ body {
   }
 h1{
  font-size:32px;
-  padding-bottom: 0px;
   text-align: center;
   padding-right: 3in;
     }
 h2{
    font-size: 16px;
-    padding-bottom: 0px;
     text-align: center;
     padding-right: 3in;
 }
