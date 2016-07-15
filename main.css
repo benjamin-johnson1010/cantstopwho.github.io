@@ -3,7 +3,7 @@ body {
   height: 150%;
   text-align: left;
   margin: 1in;
-  background: linear-gradient(to bottom, red, yellow);
+  background: radial-gradient(#7FFFD4,#00FFFF);
   }
 h1{
  font-size:32px;
