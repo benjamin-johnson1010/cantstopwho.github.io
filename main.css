@@ -35,7 +35,7 @@ h2{
 .container {
   display: flex;
 }
-.bg{
+.bg img{
   float: right;
   margin-right: 150px;
   border: 1px;
