@@ -39,6 +39,7 @@ h2{
   float: right;
   margin-right: 150px;
   border: 1px;
+  transfrom: rotate(15deg);
     }
 .bucky{
   float: left;
